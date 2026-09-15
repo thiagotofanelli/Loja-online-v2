@@ -1,3 +1,1 @@
-export const Home = () => {
-    return "Tela Home"
-} 
+print ('Hello World')
